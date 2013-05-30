@@ -62,13 +62,13 @@ For intro, the self install works well. When you need to use HDFS and get a bett
 
 Hadoop is fun, great for batch processing but fails with real time data. You can make jobs smaller and do in increments but that isn't what Hadoop and Map/Reduce was designed for. Instead try out Storm, it _is_ designed for stream processing and is very fast at it.
 
-[Storm's Main Github](https://github.com/nathanmarz/storm)
-[Good read on the rationale behind Storm](https://github.com/nathanmarz/storm/wiki/Rationale)
-[A starter kit to work with Storm](https://github.com/nathanmarz/storm-starter)
+- [Storm's Main Github](https://github.com/nathanmarz/storm)
+- [Good read on the rationale behind Storm](https://github.com/nathanmarz/storm/wiki/Rationale)
+- [A starter kit to work with Storm](https://github.com/nathanmarz/storm-starter)
 
 #Spark
 
 The in-between is a relatively new project from Cal Berkeley call Spark. It does a good job at batch processing as well as a great job doing stream processing.
 
-[Spark's Main Page](http://spark-project.org/)
-[Examples for Spark](http://spark-project.org/examples/)
+- [Spark's Main Page](http://spark-project.org/)
+- [Examples for Spark](http://spark-project.org/examples/)
