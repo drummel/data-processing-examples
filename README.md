@@ -38,7 +38,7 @@ hadoop jar ./hadoop-1.1.2/contrib/streaming/hadoop-streaming-1.1.2.jar -input da
 
 ### Pig
 
-That was cool, but for doing fun experiments PIG can do much of the same stuff with less code and quicker. The jobs it creates are quite fast as well. The best example of using Pig can be found on [it's Wikipedia page](http://en.wikipedia.org/wiki/Pig_(programming_tool)).
+That was cool, but for doing fun experiments PIG can do much of the same stuff with less code and quicker. The jobs it creates are quite fast as well. The best example of using Pig can be found on [it's Wikipedia page](http://en.wikipedia.org/wiki/Pig_(programming_tool\)).
 
 Just get it, uncompress it and things run.
 
